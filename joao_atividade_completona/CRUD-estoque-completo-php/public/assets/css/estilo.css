@@ -1,0 +1,22 @@
+body {
+    background: #f5f7fb
+}
+
+.card {
+    border: 0;
+    border-radius: .8rem
+}
+
+.login-container {
+    min-height: 75vh;
+    display: grid;
+    place-items: center
+}
+
+.login-card {
+    width: min(95%, 440px)
+}
+
+.table {
+    background: #fff
+}
